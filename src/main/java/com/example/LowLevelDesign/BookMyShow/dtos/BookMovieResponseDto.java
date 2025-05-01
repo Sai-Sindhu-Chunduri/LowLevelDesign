@@ -1,6 +1,6 @@
 package com.example.LowLevelDesign.BookMyShow.dtos;
 
-import com.scaler.bmsaug24.models.Booking;
+import com.example.LowLevelDesign.BookMyShow.models.Booking;
 import lombok.Getter;
 import lombok.Setter;
 
